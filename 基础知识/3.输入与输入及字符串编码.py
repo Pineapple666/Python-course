@@ -1,0 +1,10 @@
+input("请输入一个整数：")#用户的输入
+'''
+python2.x可以用print和print()
+python3.x只能用print()
+'''
+'''
+python2的默认编码的ASCII，不能识别中文字符，需要显示指定字符编码
+python3的默认编码是Unicode，可以识别中文字符
+'''
+print("中文")#直接打印汉字，中文
